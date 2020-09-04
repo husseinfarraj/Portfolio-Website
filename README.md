@@ -1,7 +1,7 @@
 # Portfolio-Website
 Personal Website.
 
-Check it out for yourself: https://husseinfarraj.com/index.html
+Checkout my portfolio website: https://husseinfarraj.com/index.html
 
 This project was made to show case my work as a media technologist.
 The languages used to make this website are HTML, CSS(specifically BEM styling), and vanillia Javscript.
